@@ -21,28 +21,13 @@ Using the batch upload feature avaialable between BigQuery and Cloud Storage, I 
 
 ### Task 2
 
-* Files for this task: 
-<!--  List of file or files here  --> 
+After creating my GBQ dataset, I used python to create a .txt file of all transaction data for a random sample of 500 users. 
+The code for sampling is flexible and the number of users can be adjusted. The sample will contain different results each time the code is run. 
 
-Loads all data into GBQ data set.
-
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
-	
 
 ### Task 3
 
-* Files for this task: 
-<!--  List of file or files here  --> 
-
-Loads all data into GBQ data set.
-
-`File1 Name`: 
-Description of what this file does.
-
-<!--  Repeat for each file  --> 
+Using the GQB dataset, I created a SQLite databse with three summary tables. I used SQL to aggregate and summarize wedge sales information and stored the results in Pandas dataframes. The dataframes were used to populate the SQLite database. 
 
 
 ## Query Comparison Results
