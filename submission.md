@@ -5,6 +5,8 @@
 
 This project felt cohesive and applicable to real world data problems.  It helped me form a better connection between my sql and python skills and helped build confidence in my skillset.
 
+All code is contained in the "Wedge_Code.ipynb" file
+
 ### Task 1
 
 I began by downloading and decompressing wedge_clean_files.zip
