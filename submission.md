@@ -50,10 +50,10 @@ When calculating relative difference, use the formula
 | Month with Fewest  |2|2| Yes  | NA  |
 | Num Rows in Month with Fewest  |6556770|6556770|0|   |
 | Month with Most  |5|5|Yes| NA  |
-| Num Rows in Month with Most  |7578372|7578372|   |   |
-| Null_TS  |7123792|7123792|   |   |
+| Num Rows in Month with Most  |7578372|7578372|0|   |
+| Null_TS  |7123792|7123792|0|   |
 | Null_DT  |0|0|0|   |
-| Null_Local  |234843|234843|   |   |
+| Null_Local  |234843|234843|0|   |
 | Null_CN  |0|0|0|   |
 | Num 5 on High Volume Cards  |14987|14987.0| Yes| NA  |
 |  Num Rows for Number 5 |460630|460630|0|   |
@@ -69,5 +69,7 @@ When calculating relative difference, use the formula
 | Fraction of Rows from Owners in that Year  |0.7372|0.7372|0|   |
 
 ## Reflections
+
+I approached this project confident in my SQL and GBQ abilities but with almost no Python confidence. However, I suprised myself and very much enjoyed working through the python portions.  In my opinion, the structure of the project helped set us all up for success. We had exposure to the data early on, a solid SQL and Python foundation with numerous examples to fall back on, and the tasks set forth were logical in such a way that the solutions could be conceptualized without knowing the exact execution. The ability to mentally visualize the process and outcome helped me understand what to try, what to search, and what success looked like. Overall, I think this is a great project, and I am happy to have the completed work to reference. 
 
 <!-- I'd love to get 100-200 words on your experience doing the Wedge Project --> 
