@@ -13,7 +13,7 @@ I began by downloading and decompressing wedge_clean_files.zip
 
 The 53 transaction files were stored in a single folder on my local machine. 
 
-I then created a data bucket on Google Cloud Storage using the same account used for Google Big Query
+I then created a data bucket on Google Cloud Storage using the same account used for Google BigQuery
 I uploaded the 53 transaction files to the data bucket and removed them from my local machine. 
 
 In BigQuery, I created an empty dataset called msba_wedge.
