@@ -44,7 +44,7 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  |   |   |   |   |
+| Total Rows  |85760139|85760139|  0|   |
 | January 2012 Rows  |   |   |   |   |
 | October 2012 Rows  |   |   |   |   |
 | Month with Fewest  |   |   | Yes/No  | NA  |
