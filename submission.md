@@ -3,20 +3,20 @@
 
 ## Wedge Project
 
-<!-- Any general commentary you'd like to say about the project --> 
+This project felt cohesive and applicable to real world data problems.  It helped me form a better connection between my sql and python skills and helped build confidence in my skillset.
 
 ### Task 1
 
-* Files for this task: 
-<!--  List of file or files here  --> 
+I began by downloading and decompressing wedge_clean_files.zip
 
-Loads all data into GBQ data set.
+The 53 transaction files were stored in a single folder on my local machine. 
 
-`File1 Name`: 
-Description of what this file does.
+I then created a data bucket on Google Cloud Storage using the same account used for Google Big Query
+I uploaded the 53 transaction files to the data bucket and removed them from my local machine. 
 
-<!--  Repeat for each file  --> 
+In BigQuery, I created an empty dataset called msba_wedge.
 
+Using the batch upload feature avaialable between BigQuery and Cloud Storage, I was able to batch upload all 53 transaction files into a single table, and validate a single table schema instead of 53 separate schemas. Batch loading to a single table also removed the need to combine the data programatically for Tasks 2 and 3. 
 
 
 ### Task 2
