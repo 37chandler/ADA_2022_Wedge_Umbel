@@ -13,10 +13,10 @@ I began by downloading and decompressing wedge_clean_files.zip
 
 The 53 transaction files were stored in a single folder on my local machine. 
 
-I then created a data bucket on Google Cloud Storage using the same account used for Google BigQuery
+I then created a data bucket on Google Cloud Storage using the same account used for Google BigQuery.
 I uploaded the 53 transaction files to the data bucket and removed them from my local machine. 
 
-In BigQuery, I created an empty dataset called msba_wedge.
+I created an empty BigQuery dataset called msba_wedge.
 
 Using the batch upload feature avaialable between BigQuery and Cloud Storage, I was able to batch upload all 53 transaction files into a single table, and validate a single table schema instead of 53 separate schemas. Batch loading to a single table also removed the need to combine the data programatically for Tasks 2 and 3. 
 
