@@ -3,7 +3,7 @@
 
 ## Wedge Project
 
-This project felt cohesive and applicable to real world data problems.  It helped me form a better connection between my sql and python skills and helped build confidence in my skillset.
+I have completed this project at the B level.
 
 All code is contained in the "Wedge_Code.ipynb" file
 
