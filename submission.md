@@ -47,26 +47,26 @@ When calculating relative difference, use the formula
 | Total Rows  |85760139|85760139|  0|   |
 | January 2012 Rows  |1070907| 1070907| 0  |   |
 | October 2012 Rows  |1042287|1042287| 0  |   |
-| Month with Fewest  |12|12| Yes  | NA  |
-| Num Rows in Month with Fewest  |988998|988998|0|   |
-| Month with Most  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Most  |   |   |   |   |
-| Null_TS  |   |   |   |   |
-| Null_DT  |   |   |   |   |
-| Null_Local  |   |   |   |   |
-| Null_CN  |   |   |   |   |
-| Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
-|  Num Rows for Number 5 |   |   |   |   |
-| Num Rows for 18736  |   |   |   |   |
-| Product with Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Product with Fourth-Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Num Single Record Products  |   |   |   |   |
-| Year with Highest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
-| Year with Lowest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
+| Month with Fewest  |2|2| Yes  | NA  |
+| Num Rows in Month with Fewest  |6556770|6556770|0|   |
+| Month with Most  |5|5|Yes| NA  |
+| Num Rows in Month with Most  |7578372|7578372|   |   |
+| Null_TS  |7123792|7123792|   |   |
+| Null_DT  |0|0|0|   |
+| Null_Local  |234843|234843|   |   |
+| Null_CN  |0|0|0|   |
+| Num 5 on High Volume Cards  |14987|14987.0| Yes| NA  |
+|  Num Rows for Number 5 |460630|460630|0|   |
+| Num Rows for 18736  |12153|12153|0|   |
+| Product with Most Rows  |banana organic|banana organic| Yes| NA  |
+| Num Rows for that Product  |908639|908639|0|   |
+| Product with Fourth-Most Rows  |avocado hass organic|avocado hass organic| Yes| NA  |
+| Num Rows for that Product  |456771|456771|0|   |
+| Num Single Record Products  |2769|2769|0|   |
+| Year with Highest Portion of Owner Rows  |2014|2014| Yes | NA |
+| Fraction of Rows from Owners in that Year  |0.7591|0.7591|0|   |
+| Year with Lowest Portion of Owner Rows  |2011|2011| Yes| NA |
+| Fraction of Rows from Owners in that Year  |0.7372|0.7372|0|   |
 
 ## Reflections
 
