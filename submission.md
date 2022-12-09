@@ -5,7 +5,7 @@
 
 I have completed this project at the B level.
 
-All code is contained in the "Wedge_Code.ipynb" file
+The code and additional commentary for tasks 2 and 3 is contained in the "Wedge_Code.ipynb" file in this repository
 
 ### Task 1
 
